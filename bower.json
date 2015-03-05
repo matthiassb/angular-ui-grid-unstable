@@ -2,12 +2,12 @@
   "name": "angular-ui-grid-unstable",
   "version": "3.0.0-rc.20",
   "main": [
-    "./ui-grid-unstable.css",
-    "./ui-grid-unstable.eot",
-    "./ui-grid-unstable.js",
-    "./ui-grid-unstable.svg",
-    "./ui-grid-unstable.ttf",
-    "./ui-grid-unstable.woff"
+    "./ui-grid.css",
+    "./ui-grid.eot",
+    "./ui-grid.js",
+    "./ui-grid.svg",
+    "./ui-grid.ttf",
+    "./ui-grid.woff"
   ],
   "authors": [
     "Matthias Brooks <matthias.brooks@live.com>"
